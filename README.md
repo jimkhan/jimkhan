@@ -41,8 +41,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-XML          11 mins         ███████████████████▒░░░░░   76.95 %
-Other        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+XML          11 mins         █████████████████▒░░░░░░░   69.41 %
+Other        2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
 ```
 
 <!--END_SECTION:waka-->

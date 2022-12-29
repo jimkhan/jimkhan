@@ -41,9 +41,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       1 hr 24 mins    █████████████░░░░░░░░░░░░   51.82 %
-TypeScript   30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Other        22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+TypeScript   30 mins         ███████████████████▒░░░░░   77.54 %
+Python       7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Groovy       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->

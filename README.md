@@ -41,11 +41,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 7 mins    ███████████████████▒░░░░░   77.76 %
-Terraform    38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-Python       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TypeScript   2 hrs 6 mins    █████████████████▓░░░░░░░   70.67 %
+Terraform    39 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Python       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

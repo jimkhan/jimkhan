@@ -41,8 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   53 mins         ████████████████████████▓   99.04 %
-Terraform    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TypeScript   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

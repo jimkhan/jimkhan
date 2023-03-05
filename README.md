@@ -41,12 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       30 mins         █████████████░░░░░░░░░░░░   52.39 %
-TypeScript   21 mins         █████████░░░░░░░░░░░░░░░░   36.29 %
-Prolog       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JSON   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

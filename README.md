@@ -41,7 +41,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-JSON   2 mins          █████████████████████████   100.00 %
+Python   8 mins          ████████████████████░░░░░   80.14 %
+JSON     2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.86 %
 ```
 
 <!--END_SECTION:waka-->

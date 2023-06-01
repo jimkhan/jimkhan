@@ -41,11 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python       47 mins         ███████████▓░░░░░░░░░░░░░   46.42 %
-GraphQL      40 mins         █████████▓░░░░░░░░░░░░░░░   39.27 %
-XML          13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+GraphQL   40 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

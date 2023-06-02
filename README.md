@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 GraphQL   40 mins         █████████████████████████   100.00 %
 ```
 

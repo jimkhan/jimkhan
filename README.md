@@ -41,11 +41,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       40 mins         █████████░░░░░░░░░░░░░░░░   36.52 %
-YAML         17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-Python       15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Text         14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-JavaScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Docker       40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.85 %
+JavaScript   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+YAML         17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Git Config   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Python       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
 ```
 
 <!--END_SECTION:waka-->

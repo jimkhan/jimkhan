@@ -41,7 +41,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ezhil   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.96 %
+MySQL   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.44 %
+JSON    4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.59 %
 ```
 
 <!--END_SECTION:waka-->

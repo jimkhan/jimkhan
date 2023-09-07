@@ -41,9 +41,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.96 %
-MySQL   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.44 %
-JSON    4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.59 %
+C#       15 mins         ████████████▒░░░░░░░░░░░░   49.75 %
+JSON     5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
+Ezhil    4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+MySQL    4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+CSHTML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->

@@ -41,10 +41,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C#       15 mins         ██████████████████████░░░   88.55 %
-JSON     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-CSHTML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Ezhil    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+JSON     26 mins         █████████████▓░░░░░░░░░░░   54.88 %
+Python   21 mins         ███████████▒░░░░░░░░░░░░░   45.12 %
 ```
 
 <!--END_SECTION:waka-->

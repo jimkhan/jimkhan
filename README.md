@@ -35,11 +35,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 45 mins    ██████████████████████░░░   87.35 %
-Other        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-TeX          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   1 hr 1 min      ██████████████████▒░░░░░░   73.35 %
+Other        11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+TeX          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->

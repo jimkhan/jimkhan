@@ -35,8 +35,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   8 mins          ██████████████░░░░░░░░░░░   56.41 %
-JSON       6 mins          ███████████░░░░░░░░░░░░░░   43.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
